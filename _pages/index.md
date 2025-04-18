@@ -29,8 +29,3 @@ permalink: /
 
 - Hololive（普通に箱推しっす）[公式リンク](https://hololivepro.com/)
 
-#### 鳴潮の推し
-
- ショアキーパー
-
-![image](/My_WebSite1/assets/images/logo-150.png)
