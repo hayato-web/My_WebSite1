@@ -1,5 +1,5 @@
 ---
-title: "ここにページのタイトル"
+title: "初めてのサイト"
 author: default
 permalink: /
 ---
@@ -10,40 +10,27 @@ permalink: /
 
 
 ---
+始めてwebsiteを作ってみました！
 
-以下テンプレート
+# 名前 はややん
+普段はゲームばかりやっている大学生です！学校でwebsiteを作るイベントがあったので参加しました！
 
-# 見出し1
-## 見出し2
-### 見出し3
-#### 見出し4
-##### 見出し5
-###### 見出し6
+最近はストリートファイター６と鳴潮にハマっています。
 
-改行は、行末に半角スペースを2個いれる
-次の行
+鳴潮は特に面白いからやってみてほしい。　鳴潮公式サイトは[こちら](https://wutheringwaves.kurogames.com/jp/main)
 
-[リンク](https://www.google.co.jp/)
+鳴潮にも推しはいてるけど最推しが別にいます！以下に僕の推しを並べますね。
 
-**太字**
+## My推し
 
-> 引用
->> 多重引用
+- 沙花叉クロヱ（やめたけど最推し）[Youtube](https://www.youtube.com/channel/UCIBY1ollUsauvVi4hW4cumw)
 
+- 星街すいせい[Youtube](https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A)
 
-- 箇条書きリスト
-  - ネスト
-    - さらにネスト
+- Hololive（普通に箱推しっす）[公式リンク](https://hololivepro.com/)
 
+#### 鳴潮の推し
 
-1. 番号付きリスト
-   1. ネスト
-      1. さらにネスト
+ ショアキーパー
 
-
-| 列1  | 列2  |
-|-----|-----|
-| 内容  | 内容  |
-| 内容  | 内容  |
-
-![image](/GHPages_WebSite/assets/images/logo-150.png)
+![image](/My_WebSite1/assets/images/logo-150.png)
